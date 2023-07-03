@@ -1,0 +1,7 @@
+C:\Users\yusuf.akgul\source\repos\arac_koordinat\arac_koordinat\bin\Debug\arac_koordinat.exe.config
+C:\Users\yusuf.akgul\source\repos\arac_koordinat\arac_koordinat\bin\Debug\arac_koordinat.exe
+C:\Users\yusuf.akgul\source\repos\arac_koordinat\arac_koordinat\bin\Debug\arac_koordinat.pdb
+C:\Users\yusuf.akgul\source\repos\arac_koordinat\arac_koordinat\obj\Debug\arac_koordinat.csproj.AssemblyReference.cache
+C:\Users\yusuf.akgul\source\repos\arac_koordinat\arac_koordinat\obj\Debug\arac_koordinat.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.akgul\source\repos\arac_koordinat\arac_koordinat\obj\Debug\arac_koordinat.exe
+C:\Users\yusuf.akgul\source\repos\arac_koordinat\arac_koordinat\obj\Debug\arac_koordinat.pdb
